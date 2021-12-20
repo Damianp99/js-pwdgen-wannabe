@@ -1,0 +1,27 @@
+@font-face {
+    font-family: MyOwnFont;
+    src: url(../font/kongtext.ttf);
+  }
+
+.bg-books{
+    height: 100vh;
+    background-size: cover;
+    background-image: url(..//img/wormhole-739872.png);
+   
+}
+
+.bg-psw {
+    background-color: rgba(0,0,0,0.5);
+}
+
+a{
+    text-decoration: none;
+}
+
+.more-radius{
+    border-radius: 50px;
+}
+
+div{
+    font-family: MyOwnFont;
+} 
